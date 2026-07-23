@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<jumper>
+  <item>
+    <FullName>Alice</FullName>
+    <Age>10</Age>
+    <CityName>London</CityName>
+    <Chucker>Losa</Chucker>
+    <Jitter>jazba</Jitter>
+  </item>
+  <item>
+    <FullName>Bob</FullName>
+    <Age>10</Age>
+    <CityName>Paris</CityName>
+    <Chucker>Losa</Chucker>
+    <Jitter>jann</Jitter>
+  </item>
+</jumper>
